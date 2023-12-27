@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HR_ADO_SQLServer
+namespace HR_ADO_SQLServer.Forms
 {
-    public partial class Form1 : Form
+    public partial class FrmNewEmployee : Form
     {
-        public Form1()
+        public FrmNewEmployee()
         {
             InitializeComponent();
         }
